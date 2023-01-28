@@ -1,8 +1,8 @@
-- 👋 Hi, I’m lambda shi 
-- 👀 I’m interested in computer system like distributed system or AI system 
-- 🌱 I’m currently learning AI-sys
-- 💞️ I’m looking for research on computer system  and plan to pursue my PhD in USA in the future
-- 📫 my email is lambda7xx@gmail.com 
+- 👋 Hi, I’m Lambda Shi.
+- 👀 I’m interested in computer system like distributed system or AI system.
+- 🌱 I’m currently learning AI-sys.
+- 💞️ I’m looking for research opportunity on computer system and plan to pursue my PhD in USA in the future.
+- 📫 My email is lambda7xx@gmail.com.
 
 <!---
 lambda7xx/lambda7xx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
