@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lambda Shi.
-- 👀 I’m interested in computer system like distributed system or AI system.
+- 👀 I’m interested in Computer System like Distributed System or AI System.
 - 🌱 I’m currently learning AI-sys.
 - 💞️ I’m looking for research opportunity on computer system and plan to pursue my PhD in USA in the future.
 - 📫 My email is lambda7xx@gmail.com.
