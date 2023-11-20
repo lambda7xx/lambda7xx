@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lambda Shi.
+- 👋 Hi, I’m Lambda Shi. If you know chinese, call me Xiaoxiang. Otherwise, you can call me Xiao or lambda. Anyway, all these are OK.
 - 👀 I’m interested in Computer System like Distributed System or AI System.
 - 🌱 I’m currently learning AI-sys.
 - 💞️ I’m looking for research opportunity on computer system and plan to pursue my PhD in USA in the future.
