@@ -3,8 +3,8 @@
 - 🌱 I’m working on AI-sys.
 - 💞️ I think I will be a PhD in the future.
 - 📫 My email is lambda7xx@gmail.com.
-- Think systems in algorithm
-- Think algorithms in system
+- Think Systems in AI. Think AI in Systems.
+
 
 <!---
 lambda7xx/lambda7xx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
