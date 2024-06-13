@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Lambda Shi. You can call me `Xiao` or `lambda`. Anyway, all of these are fine.
-- 👀 I’m interested in Computer System like Distributed System or AI System.
-- 🌱 I’m working on AI-sys.
-- 💞️ I think I will be a PhD in the future.
+- 👀 I’m interested in Distributed System
+
 - 📫 My email is lambda7xx@gmail.com.
-- Think Systems in AI. Think AI in Systems.
+
 
 
 <!---
