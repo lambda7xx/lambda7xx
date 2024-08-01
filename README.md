@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lambda Shi. You can call me `Xiao` or `lambda`. Anyway, all of these are fine.
+- 👋 Hi, I’m `Xiao`.
 - 👀 I’m interested in Distributed System
 
 - 📫 My email is lambda7xx@gmail.com.
