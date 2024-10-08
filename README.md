@@ -2,7 +2,7 @@
 - 👀 I’m interested in Distributed System
 
 - 📫 My email is lambda7xx@gmail.com.
-- 不会写代码.jpg
+- 会写代码.jpg
 
 
 
