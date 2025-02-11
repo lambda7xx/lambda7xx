@@ -1,8 +1,8 @@
-- 👋 Hi, I’m `Xiao`.
-- 👀 I’m interested in Distributed System
-
-- 📫 My email is lambda7xx@gmail.com.
-- 会写代码.jpg
+- 👋 Hi, I’m `Xiao`. I get my master from SJTU, currently I am seeking a USA PhD position starting from 2025 Fall.
+- 👀 I’m interested in Cloud Computing and Machine Learning System. Currently I am working on LLM serving system.
+- I publish some papers, include ICSE-SEIP'23, Eurosys'24,  ASPLOS'24, RagInfer(OSDI'25 submission) and AgentServing(OSDI'25 submission, co-first author)
+- If you are interested in my work or want to talk with me, please email me. 📫 My email is lambda7xx@gmail.com.
+- [google scholar](https://scholar.google.com/citations?user=G4YpJt4AAAAJ&hl=en)
 
 
 
