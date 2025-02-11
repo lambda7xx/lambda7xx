@@ -1,9 +1,23 @@
-- 👋 Hi, I’m `Xiao`. I get my master from SJTU, currently I am seeking a USA PhD position starting from 2025 Fall.
-- 👀 I’m interested in Cloud Computing and Machine Learning System. Currently I am working on LLM serving system.
-- I publish some papers, include ICSE-SEIP'23, Eurosys'24,  ASPLOS'24, RagInfer(OSDI'25 submission) and AgentServing(OSDI'25 submission, co-first author)
-- If you are interested in my work or want to talk with me, please email me. 📫 My email is lambda7xx@gmail.com.
-- [google scholar](https://scholar.google.com/citations?user=G4YpJt4AAAAJ&hl=en)
+👋 Hi, I’m **Xiao**, a Master's graduate from **SJTU**. I'm currently seeking a **USA PhD position** starting **Fall 2025**.
 
+### Research Interests:
+- **Cloud Computing**
+- **Machine Learning Systems**
+- Currently working on **LLM Serving Systems**.
+
+### Publications:
+- ICSE-SEIP'23
+- Eurosys'24
+- ASPLOS'24
+- **RagInfer** (OSDI'25 submission)
+- **AgentServing** (OSDI'25 submission, co-first author)
+
+
+
+### Google Scholar
+[![Google Scholar](https://scholar.google.com/favicon.ico)](https://scholar.google.com/citations?user=G4YpJt4AAAAJ&hl=en)
+
+📫 Feel free to email me at [lambda7xx@gmail.com](mailto:lambda7xx@gmail.com) for any inquiries or discussions.
 
 
 <!---
