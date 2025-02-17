@@ -1,4 +1,4 @@
-👋 Hi, I’m **Xiao** and I graduated from **SJTU**. I'm currently seeking a **USA PhD position** starting **Fall 2025**.
+👋 Hi, I’m **Xiao** and I recently graduated from **SJTU**. I'm currently seeking a **USA PhD position** starting **Fall 2025**.
 
 ### Research Interests:
 - **Cloud Computing**
