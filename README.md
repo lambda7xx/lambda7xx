@@ -13,6 +13,13 @@
 - **AgentServing** (OSDI'25 submission, co-first author)
 
 
+### Projects
+- Aceso: Auto Parallel DNN Training 
+- Raginfer: low latency RAG inference system
+- Autellix: high throuhput LLM agent serving system
+- DeepScaler: RL LLM training 
+
+
 
 ### Google Scholar
 [![Google Scholar](https://scholar.google.com/favicon.ico)](https://scholar.google.com/citations?user=G4YpJt4AAAAJ&hl=en)
