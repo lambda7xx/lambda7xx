@@ -24,7 +24,7 @@
 ### Google Scholar
 [![Google Scholar](https://scholar.google.com/favicon.ico)](https://scholar.google.com/citations?user=G4YpJt4AAAAJ&hl=en)
 
-📫 Feel free to email me at [lambda7xx@gmail.com](mailto:lambda7xx@gmail.com) for any inquiries or discussions.
+📫 Feel free to email me at [lambda7xx@gmail.com](mailto:lambda7xx@gmail.com) if you are interesteded in my work.
 
 
 <!---
