@@ -1,4 +1,4 @@
-👋 Hi, I’m **Xiao** and I recently graduated from **SJTU**. I was rejected by USA CS PhD for the ***2025 fall*** application season
+👋 Hi, I’m **Xiao** and I recently graduated from **SJTU**. I was rejected by all USA CS PhD Programs for the ***2025 fall*** application season
 
 ### Research Interests:
 - **Cloud Computing**
