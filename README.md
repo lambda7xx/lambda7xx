@@ -1,5 +1,4 @@
-👋 Hi, I’m **Xiao** and I recently graduated from **SJTU**. I was rejected by all USA CS PhD Programs for the ***2025 fall*** application season
-
+👋 Hi, I’m Xiao, and I recently graduated from Shanghai Jiao Tong University (SJTU). I’m now seeking ***research or PhD opportunities*** in computer systems and machine learning systems, or related industry research positions. Please feel free to reach out if you have an opening. Thanks!
 ### Research Interests:
 - **Cloud Computing**
 - **Machine Learning Systems**
@@ -9,15 +8,13 @@
 - ICSE-SEIP'23
 - Eurosys'24
 - ASPLOS'24
-- **RagInfer** (OSDI'25 submission)
-- **AgentServing** (OSDI'25 submission, co-first author)
+- Autellix(NSDI'26)
 
 
 ### Projects
-- Aceso: Auto Parallel DNN Training 
-- Raginfer: low latency RAG inference system
-- Autellix: high throuhput LLM agent serving system
-- DeepScaler: RL LLM training 
+- Autellix: high throuhput LLM Agent serving system  
+- DeepScaler: RL LLM training
+- Nexus: Intra-GPU PD disaggregated LLM serving system
 
 
 
