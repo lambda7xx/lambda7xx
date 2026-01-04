@@ -1,8 +1,7 @@
 👋 Hi, I’m Xiao, and I recently graduated from Shanghai Jiao Tong University (SJTU). I’m now seeking ***research  opportunities*** in computer systems and machine learning systems, or related industry research positions. Please feel free to reach out if you have an opening. Thanks!
 ### Research Interests:
-- **Cloud Computing**
-- **Machine Learning Systems**
-- Currently working on **LLM Serving Systems**.
+
+I am very interested in building Operating Systems and Distributed Systems for AI.
 
 ### Publications:
 - ICSE-SEIP'23
