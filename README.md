@@ -14,6 +14,7 @@ I am very interested in building Operating Systems and Distributed Systems for A
 - Autellix: high throuhput LLM Agent serving system  
 - DeepScaler: RL LLM training
 - Nexus: Intra-GPU PD disaggregated LLM serving system
+- CServe: Efficient Compound AI Serving System
 
 
 
