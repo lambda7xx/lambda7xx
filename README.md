@@ -1,4 +1,4 @@
-👋 Hi, I’m Xiao. I’m now seeking ***opportunities*** in computer systems and machine learning systems, or related industry positions. Please feel free to reach out if you have an opening. Thanks!
+👋 Hi, I’m Xiao. I’m a member of technical staff of one AI lab
 ### Research Interests:
 
 I am very interested in building Operating Systems and Distributed Systems for AI.
