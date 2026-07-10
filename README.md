@@ -1,4 +1,5 @@
-👋 Hi, I’m Xiao. I’m a member of technical staff of one AI lab
+👋 Hi, I’m Xiao. I am a Member of Technical Staff at an AI research lab. I am actively exploring Ph.D. opportunities for the upcoming intake. If my work aligns with your research interests and you have an open position, please don’t hesitate to reach out via email.
+
 ### Research Interests:
 
 I am very interested in building Operating Systems and Distributed Systems for AI.
